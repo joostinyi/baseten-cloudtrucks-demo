@@ -1,1 +1,1 @@
-# baseten-cloudtrucks-demo
+# baseten-feature_store-demo
